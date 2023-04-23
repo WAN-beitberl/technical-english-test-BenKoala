@@ -1,0 +1,45 @@
+.square{
+    height: 150px;
+    width: 150px;
+    vertical-align: middle;
+    color:wheat;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    border-color: black;
+    border-width: 3px;
+    background-color:darkturquoise;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.status{
+    font:italic;
+    font-size: 30px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.board{
+    text-align: center;
+    padding: 40px;
+}
+
+.headline{
+    font:italic;
+    font-size: 40px;
+    background-color:darkcyan;
+    text-align: center;
+}
+
+body{
+    background-color:rgba(0, 0, 0, 0.842)
+}
+
+.credits{
+    color:wheat
+}
+
+.reset{
+    font-size: 20px;
+    background-color: aquamarine;
+    font-weight: bold;
+}
